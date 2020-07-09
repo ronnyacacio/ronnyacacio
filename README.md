@@ -6,7 +6,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585992681698&text=Olá!)](https://api.whatsapp.com/send?phone=5585992681698&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronnyacacio27@gmail.com)](mailto:ronnyacacio27@gmail.com)
 
-## Olá 👋
+## Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 Meu nome é Ronny Acácio, sou graduando em Ciências da Computação pela Universidade Federal do Ceará - UFC e apaixonado por tecnologia!
 
