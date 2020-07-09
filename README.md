@@ -8,12 +8,12 @@
 
 ## Olá 👋
 
-Meu nome é Ronny Acácio, Graduando em Ciências da Computação pela Universidade Federal do Ceará - UFC e apaixonado por tecnologia!
+Meu nome é Ronny Acácio, sou graduando em Ciências da Computação pela Universidade Federal do Ceará - UFC e apaixonado por tecnologia!
 
 - 🔭 Estou atualmente focado em desenvolvimento WEB e mobile
 - 💬 Fale comigo sobre: Programação e tecnologia, animes, futebol e um pouquinho de matemática!
 -  ⚡ Tecnologias: Node, React, React-Native
 
-> :man_technologist: [ronnyacacio.dev](ronnyacaciodev.netlify.app/)
+> :man_technologist: Acesse o meu site pessoal [ronnyacacio.dev](ronnyacaciodev.netlify.app/)
 
 ---
