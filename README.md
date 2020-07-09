@@ -12,7 +12,7 @@ Meu nome é Ronny Acácio, sou graduando em Ciências da Computação pela Unive
 
 - 🔭 Estou atualmente focado em desenvolvimento WEB e mobile
 - 💬 Fale comigo sobre: Programação e tecnologia, animes, futebol e um pouquinho de matemática!
--  ⚡ Tecnologias: Node, React, React-Native
+-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Tecnologias: Node, React, React-Native
 
 > :man_technologist: Acesse o meu site pessoal [ronnyacacio.dev](https://ronnyacaciodev.netlify.app)
 
