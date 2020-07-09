@@ -10,8 +10,8 @@
 
 Meu nome é Ronny Acácio, sou graduando em Ciências da Computação pela Universidade Federal do Ceará - UFC e apaixonado por tecnologia!
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Estou atualmente focado em desenvolvimento WEB e mobile
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Fale comigo sobre: Programação e tecnologia, animes, futebol e um pouquinho de matemática!
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25px"> Estou atualmente focado em desenvolvimento WEB e mobile
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px"> Fale comigo sobre: Programação e tecnologia, animes, futebol e um pouquinho de matemática!
 -  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Tecnologias: Node, React, React-Native
 
 > :man_technologist: Acesse o meu site pessoal [ronnyacacio.dev](https://ronnyacaciodev.netlify.app)
