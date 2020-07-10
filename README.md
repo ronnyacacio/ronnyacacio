@@ -9,7 +9,7 @@
 
 ## Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Bem vindo ao meu portifólio!
 
-Meu nome é Ronny Acácio, sou graduando em Ciências da Computação pela UFC-Quixadá e um desenvolvedor WEB/mobile apaixonado por todo tipo de tecnologia!
+Meu nome é Ronny Acácio, sou graduando em Ciências da Computação pela UFC-Quixadá e um desenvolvedor apaixonado por todo tipo de tecnologia!
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25px"> Estou atualmente estudando TypeScript, UI/UX, Docker e AWS!
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px"> Fale comigo sobre: Programação, animes, futebol e um pouquinho de design!
