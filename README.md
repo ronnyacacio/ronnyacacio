@@ -7,13 +7,13 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585992681698&text=Olá!)](https://api.whatsapp.com/send?phone=5585992681698&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronnyacacio27@gmail.com)](mailto:ronnyacacio27@gmail.com)
 
-## Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Bem vindo ao meu portifólio!
 
-Meu nome é Ronny Acácio, sou graduando em Ciências da Computação pela Universidade Federal do Ceará - UFC e apaixonado por tecnologia!
+Meu nome é Ronny Acácio, sou graduando em Ciências da Computação pela UFC-Quixadá e um desenvolvedor WEB/mobile apaixonado por todo tipo de tecnologia!
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25px"> Estou atualmente focado em desenvolvimento WEB e mobile
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px"> Fale comigo sobre: Programação e tecnologia, animes, futebol e um pouquinho de matemática!
--  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Tecnologias: Node, React, React-Native
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25px"> Estou atualmente estudando TypeScript, UI/UX, Docker e AWS!
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px"> Fale comigo sobre: Programação, animes, futebol e um pouquinho de design!
+-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Tecnologias: Node.js, ReactJS, React Native, TypeScript e mais! 
 
 > :man_technologist: Acesse o meu site pessoal [ronnyacacio.dev](https://ronnyacaciodev.netlify.app)
 
