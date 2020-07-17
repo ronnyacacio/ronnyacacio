@@ -14,6 +14,7 @@ Meu nome é Ronny Acácio, sou graduando em Ciências da Computação pela UFC-Q
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25px"> Estou atualmente estudando TypeScript, UI/UX, Docker e AWS!
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px"> Fale comigo sobre: Programação, animes, futebol e um pouquinho de design!
 -  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Principais Tecnologias: 
+
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-294E80?style=flat-square&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=NodeJS&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
