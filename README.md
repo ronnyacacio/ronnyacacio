@@ -12,7 +12,7 @@
 Meu nome é Ronny Acácio, sou graduando em Ciências da Computação pela UFC-Quixadá e um desenvolvedor apaixonado por todo tipo de tecnologia!
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25px"> Estou atualmente estudando TypeScript, UI/UX, Docker e AWS!
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px"> Fale comigo sobre: Programação, animes, futebol e um pouquinho de design!
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px"> Fale comigo sobre: Programação, futebol e um pouquinho de design!
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Principais Tecnologias: 
 
